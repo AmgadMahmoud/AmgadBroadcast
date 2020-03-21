@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AmgadBroadcast</string>
+    <string name="textView_message">This Application has:\n1= Calls Broadcast Receiver which prints Phone State and Phone Number\n2= Messages Broadcast Receiver which prints Message Body and Message Phone Number</string>
+</resources>
